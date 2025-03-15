@@ -2,7 +2,6 @@
 
 🔭 I’ve got experience with DotNET in C# </br>
 🌱 I’m currently learning Python and C++ to apply in HFT and Algorithmic Trading </br>
-📫 ionugha97@gmail.com </br>
 ⚡ Fun fact: I love family
 
 
